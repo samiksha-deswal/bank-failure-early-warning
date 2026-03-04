@@ -1,0 +1,117 @@
+[
+  {
+    "run_timestamp": "2026-03-04 12:23:24",
+    "cert": 34264,
+    "bank_name": "FIRST ALLIANCE BANK AND TRUST CO",
+    "report_date": "2000-12-31",
+    "qtrs_to_failure": 0,
+    "roa": -5.0903,
+    "capital_ratio": 4.3211,
+    "npa_value": 0.0,
+    "total_assets": 17438.0,
+    "risk_score": 7,
+    "risk_level": "CRITICAL",
+    "flags_triggered": [
+      "ROA critically negative (<-1.0)",
+      "Capital ratio critical (<6%)",
+      "Net income negative"
+    ],
+    "flag_count": 3,
+    "model_version": "v1.0-rules-based",
+    "requires_review": true,
+    "human_reviewed": false,
+    "examiner_note": ""
+  },
+  {
+    "run_timestamp": "2026-03-04 12:23:24",
+    "cert": 32646,
+    "bank_name": "SUPERIOR BANK, FSB",
+    "report_date": "2001-03-31",
+    "qtrs_to_failure": 1,
+    "roa": -13.9503,
+    "capital_ratio": 1.47,
+    "npa_value": 2.0,
+    "total_assets": 1941439.0,
+    "risk_score": 7,
+    "risk_level": "CRITICAL",
+    "flags_triggered": [
+      "ROA critically negative (<-1.0)",
+      "Capital ratio critical (<6%)",
+      "Net income negative"
+    ],
+    "flag_count": 3,
+    "model_version": "v1.0-rules-based",
+    "requires_review": true,
+    "human_reviewed": false,
+    "examiner_note": ""
+  },
+  {
+    "run_timestamp": "2026-03-04 12:23:24",
+    "cert": 34979,
+    "bank_name": "NEW CENTURY BANK",
+    "report_date": "1999-12-31",
+    "qtrs_to_failure": 9,
+    "roa": -7.748,
+    "capital_ratio": 3.4851,
+    "npa_value": 8.0,
+    "total_assets": 54516.0,
+    "risk_score": 7,
+    "risk_level": "CRITICAL",
+    "flags_triggered": [
+      "ROA critically negative (<-1.0)",
+      "Capital ratio critical (<6%)",
+      "Net income negative"
+    ],
+    "flag_count": 3,
+    "model_version": "v1.0-rules-based",
+    "requires_review": true,
+    "human_reviewed": false,
+    "examiner_note": ""
+  },
+  {
+    "run_timestamp": "2026-03-04 12:23:24",
+    "cert": 34979,
+    "bank_name": "NEW CENTURY BANK",
+    "report_date": "2000-03-31",
+    "qtrs_to_failure": 8,
+    "roa": -9.6742,
+    "capital_ratio": 5.9979,
+    "npa_value": 7.0,
+    "total_assets": 56542.0,
+    "risk_score": 7,
+    "risk_level": "CRITICAL",
+    "flags_triggered": [
+      "ROA critically negative (<-1.0)",
+      "Capital ratio critical (<6%)",
+      "Net income negative"
+    ],
+    "flag_count": 3,
+    "model_version": "v1.0-rules-based",
+    "requires_review": true,
+    "human_reviewed": false,
+    "examiner_note": ""
+  },
+  {
+    "run_timestamp": "2026-03-04 12:23:24",
+    "cert": 34979,
+    "bank_name": "NEW CENTURY BANK",
+    "report_date": "2000-06-30",
+    "qtrs_to_failure": 7,
+    "roa": -7.6821,
+    "capital_ratio": 5.0161,
+    "npa_value": 4.0,
+    "total_assets": 52882.0,
+    "risk_score": 7,
+    "risk_level": "CRITICAL",
+    "flags_triggered": [
+      "ROA critically negative (<-1.0)",
+      "Capital ratio critical (<6%)",
+      "Net income negative"
+    ],
+    "flag_count": 3,
+    "model_version": "v1.0-rules-based",
+    "requires_review": true,
+    "human_reviewed": false,
+    "examiner_note": ""
+  }
+]
